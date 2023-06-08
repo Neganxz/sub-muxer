@@ -14,16 +14,16 @@
 		}
 	},
 	"env": {
-		"BOT_TOKEN": {
+		"BOT_TOKEN": {6175331210:AAGlkay5hZ_qEwvLm43_2jZZlQWRZmBKcug
 			"description": "Telegram bot token. get it from botfather"
 		},
-		"API_HASH": {
+		"API_HASH": {0e318c551767530f7bddab9f34a4f16d
 			"description": "API Hash of your app"
 		},
-		"APP_ID": {
+		"APP_ID": {2246743
 			"description": "App Id of your app."
 		},
-		"ALLOWED_USERS": {
+		"ALLOWED_USERS": {1756207215
 			"description": "User id of users seperated by a comma allowed to use the bot."
 		}
 	},
